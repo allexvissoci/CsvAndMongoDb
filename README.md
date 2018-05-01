@@ -46,6 +46,11 @@ id_profissional_2     identificação do profissional     inteiro	    20		      
                       auxiliar deste item.	
 
 
+Requisitos:
+python3
+pymongo
+
+
 Como executar:
 1º Clone o repositório.
 2º Abra o terminal.
